@@ -1,8 +1,11 @@
 # faserly-website
 
-# Getting Started with Create React App
+### Setup linter & prettier (JetBrains IDE)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+    Go to Settings-> Languages & Frameworks -> JavaScript -> Prettier : Tick both check boxes at the bottom of the page.
+    Go to Settings-> Languages & Frameworks -> JavaScript -> Code Quality Tools -> ESLint: Change selected radio button to Automatic ESLint configuration & Tick Check box to Run on save
+    Go to Settings-> Appearance & Behavior -> System Settings: In Autosave section Tick theSave files if the IDE is idle for... And set it accordingly 2s-5s is recommended.
+
 
 ## Available Scripts
 
