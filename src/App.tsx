@@ -1,17 +1,17 @@
 import React from 'react';
 import './App.css';
+import Router from './router/Router';
 
 // Bootstrap styles
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 // Custom theme styles for boostrap
 import './styles/custom-theme.scss';
-import Login from './pages/login/Login';
 
 function App() {
   return (
     <div className="App">
-      <Login />
+      <Router />
     </div>
   );
 }
