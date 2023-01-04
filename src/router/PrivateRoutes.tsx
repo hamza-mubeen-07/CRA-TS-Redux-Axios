@@ -1,6 +1,6 @@
 import { FC } from 'react';
 import { Navigate, Outlet } from 'react-router-dom';
-import { ROUTE_PATHS } from './routePaths';
+import { ROUTE_PATHS } from '../contants/routePaths';
 
 const PrivateRoutes: FC = () => {
   let auth = { token: true };

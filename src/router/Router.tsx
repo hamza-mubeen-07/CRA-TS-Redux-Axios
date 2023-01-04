@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { FC } from 'react';
 import Login from '../pages/login/Login';
-import { ROUTE_PATHS } from './routePaths';
+import { ROUTE_PATHS } from '../contants/routePaths';
 import SignUp from '../pages/signup/SignUp';
 import Home from '../pages/home/Home';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
