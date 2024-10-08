@@ -1,5 +1,3 @@
-# faserly-website
-
 ### Setup linter & prettier (JetBrains IDE)
 
     Go to Settings-> Languages & Frameworks -> JavaScript -> Prettier : Tick both check boxes at the bottom of the page.
